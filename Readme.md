@@ -1,1 +1,1 @@
-📝 Portfólio
+[LinkedIn](https://www.linkedin.com/in/joaomrcs/)
