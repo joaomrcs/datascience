@@ -10,7 +10,7 @@
 
 > Cientista de dados em progresso... 🛠️
 
-### Estudante que está cursando análise e desenvolvimento de sistemas, que há pouco tempo foi se aprofundar nesse mundo de dados e descobriu que sem sombra de dúvidas realmente é o que quer seguir e ter como profissão. Estou vivendo em constante aprendizado para me tornar um futuro cientista de dados e esse repositório fará parte de toda esta jornada. É aqui onde eu irei compartilhar todos os meus experimentos 👨🏼‍🔬 para criar um portfólio digno de receber a primeira oportunidade nessa área tão cobiçada por um amante de dados. 
+#### Estudante que está cursando análise e desenvolvimento de sistemas, que há pouco tempo foi se aprofundar nesse mundo de dados e descobriu que sem sombra de dúvidas realmente é o que quer seguir e ter como profissão. Estou vivendo em constante aprendizado para me tornar um futuro cientista de dados e esse repositório fará parte de toda esta jornada. É aqui onde eu irei compartilhar todos os meus experimentos 👨🏼‍🔬 para criar um portfólio digno de receber a primeira oportunidade nessa área tão cobiçada por um amante de dados. 
 
 <br>
 
@@ -29,4 +29,4 @@
 <br>
 
 ## Projetos pessoais
-### Aqui está os notebooks dos projetos que eu desenvolvi na área de Data Science.
+#### Aqui está os notebooks dos projetos que eu desenvolvi na área de Data Science.
