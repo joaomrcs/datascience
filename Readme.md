@@ -1,10 +1,11 @@
-<div>
-<a href="https://www.linkedin.com/in/joaomrcs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="mailto: joaomrcs@outlook.pt" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
-</div>
-<br>
-
-![DS](https://github.com/joaomrcs/datascience/blob/main/imgs/DS.png)
+<center>
+    <div>
+        <a href="https://www.linkedin.com/in/joaomrcs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+        <a href="mailto: joaomrcs@outlook.pt" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
+    </div>
+    <br>
+    <img src="https://github.com/joaomrcs/datascience/blob/main/imgs/DS.png" target="_blank"></a>
+</center>
 
 ## João Marcos
 
@@ -29,7 +30,7 @@
 <br>
 
 ## Projetos pessoais
-#### Aqui está os notebooks dos projetos que eu desenvolvi na área de Data Science.
+#### Aqui está os **notebooks** dos projetos que eu desenvolvi na área de Data Science.
 
 
 #### ▹ Machine Learning para prever o tipo de vinho com base nos atributos: https://bityli.com/u3izh
