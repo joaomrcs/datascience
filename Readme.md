@@ -30,3 +30,9 @@
 
 ## Projetos pessoais
 #### Aqui está os notebooks dos projetos que eu desenvolvi na área de Data Science.
+
+<br>
+
+#### ▹ Machine Learning para prever o tipo de vinho com base nos atributos: https://bityli.com/u3izh
+
+#### ▸ Em construção... 🚧
