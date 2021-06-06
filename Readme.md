@@ -33,6 +33,8 @@
 #### Aqui está os **notebooks** dos projetos que eu desenvolvi na área de Data Science.
 
 
-#### ▹ Machine Learning para prever o tipo de vinho com base nos atributos: https://bityli.com/u3izh
+#### ▹ Modelo de Machine Learning para prever o tipo de vinho com base nos atributos: https://cutt.ly/snn3B5G
 
-#### ▸ Em construção... 🚧
+#### ▸ Data engineering até a realização de insights mais complexos: https://cutt.ly/mnn3XvD
+
+#### ▹ Em construção... 🚧
