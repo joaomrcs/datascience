@@ -4,7 +4,7 @@
 </div>
 <br>
 <div align="center">
-    <img src="https://github.com/joaomrcs/datascience/blob/main/imgs/DS.png"></a>
+    <img src="https://github.com/joaomrcs/datascience/blob/main/DS.png"></a>
 </div>
 
 ## João Marcos
