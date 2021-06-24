@@ -37,4 +37,6 @@
 
 #### ▸ Data engineering até a realização de insights mais complexos: https://cutt.ly/mnn3XvD
 
-#### ▹ Em construção... 🚧
+#### ▹ Regressão linear para descobrir faturamentos futuros: https://cutt.ly/Zn7HN0O
+
+#### ▸ Em construção... 🚧
